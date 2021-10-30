@@ -56,7 +56,7 @@ There are still other things i need to learn and I'll still need to keep practic
 
 ## Author
 
-- Website - Tega Lucky-Fiakpa (https://mystifying-lumiere-89c739.netlify.app/)
+- Website - Tega Lucky-Fiakpa (https://ecstatic-wozniak-3d695c.netlify.app/)
 - Frontend Mentor - @tegxy(https://www.frontendmentor.io/profile/tegxy)
 - Twitter - @tegxy(https://www.twitter.com/tegxy)
 
