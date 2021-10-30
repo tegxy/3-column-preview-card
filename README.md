@@ -29,7 +29,18 @@ Some of the CSS properties were:
  
 - how and when to using positioning
 - more knowledge on divs, their height and width
--
+- how to also use psuedo-classes and hover states
+
+#sedan-button {
+    color: hsl(31, 77%, 52%);
+    background-color: hsl(0, 0%, 95%);
+  }
+#sedan-button:hover {
+    background-color: hsl(31, 77%, 52%);
+    color: hsla(0, 0%, 100%, 0.75);
+    border: 2px white solid;
+    cursor: pointer;
+  }
 
 There are still other things i need to learn and I'll still need to keep practicing.
 
